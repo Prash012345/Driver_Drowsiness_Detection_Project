@@ -59,6 +59,7 @@ The **Driver Drowsiness Detection System** is designed to enhance road safety by
      cd <project_folder>
      ```
    - Ensure the file `alert.wav` is in the project directory.
+   - Download and paste it on the root : wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat
 
 ---
 
